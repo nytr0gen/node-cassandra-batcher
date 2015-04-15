@@ -1,0 +1,23 @@
+{
+  "name": "cassandra-batcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cassandra-driver": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nytr0gen/node-cassandra-batcher.git"
+  },
+  "author": "nytr0gen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nytr0gen/node-cassandra-batcher/issues"
+  },
+  "homepage": "https://github.com/nytr0gen/node-cassandra-batcher"
+}

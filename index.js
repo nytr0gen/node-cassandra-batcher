@@ -1,3 +1,7 @@
+//
+// Created by Robert Vulpe on 15/04/15.
+//
+
 'use strict';
 
 var Cassandra = require('cassandra-driver');
